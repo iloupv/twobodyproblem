@@ -6,9 +6,6 @@
 # vscode
 .vscode/
 
-# Output files
-output/output.txt
-
 # User-specific files
 *.rsuser
 *.suo
