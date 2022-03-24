@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# vscode
+.vscode/
+
+# Output files
+output/output.txt
+
 # User-specific files
 *.rsuser
 *.suo
